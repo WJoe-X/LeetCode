@@ -1,4 +1,4 @@
-package lib.sixzeroseven;
+package lib.sixzeroseven.array;
 
 import java.util.*;
 
